@@ -1,0 +1,26 @@
+{
+  "name": "sulihuli",
+  "displayName": "SuliHuli",
+  "version": "1.1.0",
+  "description": "Electric-vehicle catalog for Claude Code: search, one model, compare, rankings - every figure with its source link and date, verified figures marked. Connects the read-only SuliHuli MCP server and adds a skill on how to use it.",
+  "author": {
+    "name": "SuliHuli",
+    "email": "hello@sulihuli.com",
+    "url": "https://sulihuli.com"
+  },
+  "homepage": "https://sulihuli.com",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://sulihuli.com/privacy",
+  "termsOfServiceUrl": "https://sulihuli.com/terms",
+  "documentationUrl": "https://sulihuli.com/llms.txt",
+  "supportUrl": "https://sulihuli.com/who-runs-this",
+  "keywords": [
+    "electric-vehicles",
+    "ev",
+    "cars",
+    "specs",
+    "mcp",
+    "data"
+  ],
+  "repository": "https://github.com/sulihuli/mcp"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "sulihuli",
+  "displayName": "SuliHuli",
+  "description": "Electric-vehicle catalog: search, one model, compare, rankings - every figure with its source link and date, verified figures marked.",
+  "version": "1.1.0",
+  "author": {
+    "name": "SuliHuli",
+    "url": "https://sulihuli.com"
+  },
+  "homepage": "https://sulihuli.com",
+  "repository": "https://github.com/sulihuli/mcp",
+  "license": "MIT",
+  "keywords": [
+    "electric-vehicles",
+    "ev",
+    "cars",
+    "specs",
+    "mcp",
+    "data"
+  ],
+  "logo": "assets/logo.svg",
+  "skills": "./plugins/sulihuli/skills/",
+  "mcpServers": "./.mcp.json"
+}

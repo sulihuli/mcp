@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sulihuli": {
+      "type": "http",
+      "url": "https://sulihuli.com/api/mcp"
+    }
+  }
+}
